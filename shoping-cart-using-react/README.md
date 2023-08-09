@@ -12,6 +12,7 @@
 - [Technologies Used](#technologies-used)
 - [License](#license)
 - [Contact](#contact)
+- [Netlify](#Netlify)
 
 ## Overview
 
@@ -83,6 +84,11 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-SHANMUGAM R: <a href="https://github.com/Shanmugamrskfamily">My GitHub</a>
-Email: shanmugamrskfamily@gmail.com
-LinkedIn:<a href="https://www.linkedin.com/in/shanmugamrskfamily/">SHANMUGAM R</a>
+SHANMUGAM R: <a href="https://github.com/Shanmugamrskfamily">My GitHub</a><br>
+Email: shanmugamrskfamily@gmail.com<br>
+LinkedIn:<a href="https://www.linkedin.com/in/shanmugamrskfamily/">SHANMUGAM R</a><br>
+
+## Netlify
+
+This Project also deployed in Netlify the link is given below 👇:
+https://shoping-cart-using-react-guvi.netlify.app/ [![Netlify Status](https://api.netlify.com/api/v1/badges/efb048c8-a99b-4b63-a144-90472557c462/deploy-status)](https://app.netlify.com/sites/shoping-cart-using-react-guvi/deploys)
