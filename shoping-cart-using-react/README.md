@@ -90,5 +90,5 @@ LinkedIn:<a href="https://www.linkedin.com/in/shanmugamrskfamily/">SHANMUGAM R</
 
 ## Netlify
 
-This Project also deployed in Netlify the link is given below 👇:
+This Project also deployed in Netlify the link is:
 https://shoping-cart-using-react-guvi.netlify.app/ [![Netlify Status](https://api.netlify.com/api/v1/badges/efb048c8-a99b-4b63-a144-90472557c462/deploy-status)](https://app.netlify.com/sites/shoping-cart-using-react-guvi/deploys)
