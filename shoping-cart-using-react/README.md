@@ -1,6 +1,6 @@
 # Project Name
 
-<b>Shoping Cart using React</b>
+<h1><b>Shoping Cart using React</b></h1>
 
 ## Table of Contents
 
