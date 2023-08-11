@@ -19,7 +19,7 @@ This React project is an e-commerce or online shopping application built using R
 
 ## Demo
 
-<img src="./src/assets/shoping_cart.gif">
+<img src="./shoping-cart-using-react/src/assets/shoping_cart.gif">
 
 ## Features
 
